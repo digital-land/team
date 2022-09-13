@@ -9,11 +9,19 @@
     "type": "git",
     "url": "git+https://github.com/digital-land/team.git"
   },
-  "keywords": ["data", "platform", "land", "planning"],
+  "keywords": [
+    "data",
+    "platform",
+    "land",
+    "planning"
+  ],
   "author": "DLUHC Planning Data Team",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/digital-land/team/issues"
   },
-  "homepage": "https://github.com/digital-land/team#readme"
+  "homepage": "https://github.com/digital-land/team#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
 }
