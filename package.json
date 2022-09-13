@@ -1,0 +1,19 @@
+{
+  "name": "planning-data-team",
+  "version": "1.0.0",
+  "description": "Working in the open on planning.data.gov.uk",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-land/team.git"
+  },
+  "keywords": ["data", "platform", "land", "planning"],
+  "author": "DLUHC Planning Data Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digital-land/team/issues"
+  },
+  "homepage": "https://github.com/digital-land/team#readme"
+}
